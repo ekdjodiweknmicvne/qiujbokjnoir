@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/EnemyListDebuffs.git"
+commit = "94f05a751d5e20862db50f8453bd8355a87f0995"
+owners = [
+    "dradalrplwmif",
+    "Felys1998",
+    "AnimaSA",
+]
+changelog = "6.5 / API9 Updates"
