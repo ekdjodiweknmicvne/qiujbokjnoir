@@ -20,7 +20,7 @@ jobs:
     - name: Checkout Plogon
       uses: actions/checkout@v3
       with:
-        repository: ekdjodiweknmicvne/qnokwnriekve
+        repository: ekdjodiweknmicvne/Plogon
         #ref: V1.0.6
         path: Plogon
         
