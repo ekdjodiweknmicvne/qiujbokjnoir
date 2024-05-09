@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/Dalamud.FullscreenCutscenes.git"
+commit = "9e66188b07a2e69cd32f60aacd14ca754430f4c8"
+owners = [
+    "dradalrplwmif",
+    "goaaats",
+]
+project_path = "Dalamud.FullscreenCutscenes"
