@@ -1,0 +1,8 @@
+[plugin]
+repository = 'https://github.com/woimqimodkbrne/Glamaholic.git'
+commit = '65f9d68824420a12f590c583ec26ac1a01528ff1'
+owners = [
+		'dradalrplwmif',
+		'lojewalo',
+]
+changelog = 'API 9'
