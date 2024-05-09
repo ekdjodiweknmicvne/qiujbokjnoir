@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/EzFauxHollows.git"
+owners = [
+		"dradalrplwmif",
+		"daemitus",
+		"MidoriKami",
+]
+project_path = "FauxHollowsSolver"
+commit = "a7aa4d28f3dca062056807780d68c4e81b456dbb"
+changelog = ""
