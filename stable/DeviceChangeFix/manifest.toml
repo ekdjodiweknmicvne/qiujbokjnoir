@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/DeviceChangeFix.git"
+commit = "0347bd6e5baa307c3163d50619ff72467f3e4e91"
+owners = [
+    "dradalrplwmif",
+		"Jessidhia",
+]
+project_path = "DeviceChangeFix"
+changelog = "Update to API 9"
