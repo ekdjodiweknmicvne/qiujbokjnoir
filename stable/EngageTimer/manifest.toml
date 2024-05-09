@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/EngageTimer.git"
+commit = "47ffac62af3eaa5f578c53309d685e0eee6cdde1"
+owners = [
+		"dradalrplwmif",
+		"xorus",
+]
+changelog = """\
+- Add an option to draw the custom 0-5 numbers without hiding the original countdown
+- Make animation match vanilla a bit better
+"""
