@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/umbra.git"
+commit = "f583e15145e7496be6aba318107077df775092d1"
+owners = [
+		"dradalrplwmif",
+		"haroldiedema",
+]
+project_path = "Umbra"
+changelog = """
+ - Fixed the settings window from rebinding events more than once.
+"""
