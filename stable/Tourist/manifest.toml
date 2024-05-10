@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/Tourist.git"
+commit = "080240e8971f17a1bcc4c9e2b0c9f70f56e5278c"
+owners = [
+		"dradalrplwmif",
+		"lojewalo",
+]
+changelog = "API 9"
