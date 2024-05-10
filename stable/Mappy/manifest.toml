@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/Mappy.git"
+commit = "777f95dae993504702ef5366b02801c9030362bc"
+owners = [
+		"dradalrplwmif",
+		"MidoriKami",
+]
+project_path = "Mappy"
