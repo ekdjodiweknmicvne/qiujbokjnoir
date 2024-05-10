@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/PatMeDalamud.git"
+commit = "46485b2768228b10963cd78373d61bedba5f5861"
+owners = [
+    "dradalrplwmif",
+    "MgAl2O4",
+]
