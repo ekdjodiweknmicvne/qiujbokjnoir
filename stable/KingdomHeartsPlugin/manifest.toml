@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/KingdomHeartsPlugin.git"
+commit = "03162f9bd271d2f7ffe52cacec8322ec66d7aa4c"
+owners = [
+    "dradalrplwmif",
+    "Arrenton",
+]
+project_path = "KingdomHeartsPlugin"
+changelog = """
+Added scale feature for class icon.
+Class icons use HD texture now.
+"""
