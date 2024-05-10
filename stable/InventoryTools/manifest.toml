@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/InventoryTools.git"
+commit = "9010f37ee02918d8ab0bfe50248ae24e384fa89f"
+owners = [
+    "dradalrplwmif",
+    "Critical-Impact",
+]
+project_path = "InventoryTools"
+version = "1.6.2.9"
+changelog = """\
+**Fixes**
+- Stop some game calls being made in the plugin load
+- The armoire should now highlight again
+- The default highlighting colour for tabs was incorrect
+**Improvements**
+- Highlighting now uses the addon lifecycle service provided by Dalamud
+
+"""
