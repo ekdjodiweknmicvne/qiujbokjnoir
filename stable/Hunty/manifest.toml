@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/Hunty.git"
+commit = "4fddce2b9efddb08bbdaf1cf3fa8de5542940983"
+owners = [
+    "dradalrplwmif",
+    "Infiziert90",
+]
+project_path = "Hunty"
