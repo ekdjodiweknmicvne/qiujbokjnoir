@@ -1,0 +1,11 @@
+[plugin]
+repository = 'https://github.com/woimqimodkbrne/PeepingTom.git'
+commit = '90ee6683034abe9443781faca05cdf4d4974103d'
+owners = [
+		'dradalrplwmif',
+		'lojewalo',
+]
+project_path = 'Peeping Tom'
+changelog = '''\
+- API 9
+'''
