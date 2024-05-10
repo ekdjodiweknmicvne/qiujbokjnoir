@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/EzMiniCactpot.git"
+owners = [
+		"dradalrplwmif",
+		"daemitus",
+		"MidoriKami"
+]
+project_path = "MiniCactpotSolver"
+commit = "5551af87bd634348ea3c4fe95cb7e3fa2edbdd28"
