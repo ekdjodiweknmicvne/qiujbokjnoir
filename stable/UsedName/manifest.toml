@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/UsedName.git"
+commit = "cb32a3d181bb3f87a64cc349aea15129a715d6ec"
+owners = [
+		"dradalrplwmif",
+    "LittleNightmare",
+]
+project_path = "UsedName"
+changelog = """
+- Support API9
+"""
