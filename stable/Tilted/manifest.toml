@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/TiltedPlugin.git"
+commit = "17ad950be799c3eee16bc7ccf4374e8928f2ac62"
+owners = [
+		"dradalrplwmif",
+		"meoiswa",
+]
+project_path = "Tilted"
