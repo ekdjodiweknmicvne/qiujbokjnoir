@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/TargetFurniture.git"
+commit = "19d6434b512d099f7a5ef8eaf857cb8fab82b97b"
+owners = [
+		"dradalrplwmif",
+		"InitialDet",
+]
+project_path = "TargetFurniture"
