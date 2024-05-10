@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/MacroChain.git"
+commit = "b59fe8d322573b978f9bdeddeaf9d000f559c4f4"
+owners = [
+    "dradalrplwmif",
+    "Caraxi",
+]
