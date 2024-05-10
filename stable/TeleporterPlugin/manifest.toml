@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/TeleporterPlugin.git"
+commit = "2bf08e455dcb78f543810439ab7deda9ab913694"
+owners = [
+		"dradalrplwmif",
+		"pohky",
+]
+project_path = "TeleporterPlugin"
