@@ -1,0 +1,14 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/xivPartyIcons.git"
+commit = "c8edae98061b04627aeb6fe82675b41d51e308b4"
+owners = [
+    "dradalrplwmif",
+    "shdwp",
+    "avafloww",
+    "abashby",
+    "nebel"
+]
+project_path = "PartyIcons"
+changelog = """
+- Update for 6.5
+"""
