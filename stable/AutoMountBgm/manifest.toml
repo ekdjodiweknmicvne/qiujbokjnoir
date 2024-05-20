@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/AutoMountBGM.git"
+owners = [ "dradalrplwmif", "PrincessRTFM",]
+project_path = ""
+commit = "56a5d79b12961a34bb6f4ad744d5f31882bdb5c7"
+changelog = "Mount BGM will now be automatically disabled when unmounting, so that volume doesn't stutter when using a BGM-disabled mount."
