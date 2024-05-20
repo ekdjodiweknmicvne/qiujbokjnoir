@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/BetterPlaytime.git"
+commit = "2ef345f3f416027686d10e01fbbba20754e20975"
+owners = [
+    "dradalrplwmif",
+    "Infiziert90",
+]
+project_path = "BetterPlaytime"
+changelog = "API 9, KR"
