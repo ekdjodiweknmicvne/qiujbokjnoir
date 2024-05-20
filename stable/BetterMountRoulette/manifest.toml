@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/woimqimodkbrne/BetterMountRoulette.git"
-commit = "7f9b2339e345e33fd4e26507165a511d9d9ea137"
+commit = "b0a2c9a556572d54b7acdfce67a5600cd482efc1"
 version = "1.3.0.15"
 owners = ["dradalrplwmif", "CMDRNuffin"]
 changelog = """Now includes an option to only mount single-seated mounts while solo.
