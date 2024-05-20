@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/AdaptiveHudPlugin.git"
+commit = "9847a79a0972ae34d14df44e41cf90feffbd9f36"
+owners = [
+    "dradalrplwmif",
+    "Helios747"
+]
+project_path = "AdaptiveHud"
+changelog = "fix problem where config window can get stuck"
