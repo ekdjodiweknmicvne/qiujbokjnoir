@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/AdventurerInNeed.git"
+commit = "eb439d60e34a7ea9babe08820226d8eb9f1878df"
+owners = [
+    "dradalrplwmif",
+    "Caraxi",
+]
