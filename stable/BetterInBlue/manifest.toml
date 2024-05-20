@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/BetterInBlue.git"
+commit = "a8b374dc5581b65876efc0343c6368dfaa6bfc1b"
+owners = ["dradalrplwmif", "NotNite"]
+project_path = "BetterInBlue"
+changelog = "API 9, KR"
