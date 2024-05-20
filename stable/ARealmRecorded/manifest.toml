@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/ARealmRecorded.git"
+commit = "07ebf93f08ee90cdd0bc4a1fdbe2e518eeb78939"
+owners = [ "dradalrplwmif", "UnknownX7" ]
+changelog = '''
+- .NET 8'''
