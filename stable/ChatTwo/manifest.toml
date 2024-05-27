@@ -6,8 +6,7 @@ owners = [
     "Infiziert90",
     "lojewalo",
 ]
-changelog = 
-"""
+changelog = """
 **New**
 - Changelog tab
  - Shows the latest changelog
