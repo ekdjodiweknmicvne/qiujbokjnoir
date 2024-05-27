@@ -7,7 +7,7 @@ owners = [
     "lojewalo",
 ]
 changelog = 
-```
+"""
 **New**
 - Changelog tab
  - Shows the latest changelog
@@ -46,4 +46,4 @@ changelog =
  - If you want to disable this feature all together, visit the Preview tab in your config
 - Fix welcome messages getting shuffled
 - Message history viewer, going above the 10,000 that chat2 can display at once
-```
+"""
