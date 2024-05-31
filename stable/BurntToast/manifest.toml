@@ -1,0 +1,4 @@
+[plugin]
+repository = 'https://github.com/woimqimodkbrne/BurntToast.git'
+commit = '04791b19800db6f6cc5d892ccffe75eb2536334f'
+owners = [ 'dradalrplwmif', 'Xpahtalo' ]
