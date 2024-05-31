@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/BozjaBuddy.git"
+commit = "e7440854e5206d4a6f59b0cd2f8f87902a1cf982"
+owners = ["dradalrplwmif", "kaleidocli"]
+project_path = "BozjaBuddy"
+changelog = """
+Bozja Buddy 1.1.5.5
+- Minor bug fix.
+- Data for stats calc added.
+"""
