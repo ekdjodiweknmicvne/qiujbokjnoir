@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/BetterShadows.git"
+commit = "024789f1f05906ff8c125baa71c230db04c0811c"
+owners = ["dradalrplwmif", "Drahsid"]
+project_path = "BetterShadows"
+changelog = """
+- Fix oversight which could result in ShadowManager being null following plugin initialization
+"""
+
