@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/BlueMageHelper.git"
+commit = "813ae36d9132f7be1c11ce52de00a87fcf2d7cf0"
+owners = [
+    "dradalrplwmif",
+    "Infiziert90",
+]
+project_path = "BlueMageHelper"
