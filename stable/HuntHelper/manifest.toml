@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/HuntHelper.git"
+commit = "f6bd3a7338ad20c6d3b9dcaa963391211e3c82e9"
+owners = [
+    "dradalrplwmif",
+    "img02",
+]
+project_path = "HuntHelper"
