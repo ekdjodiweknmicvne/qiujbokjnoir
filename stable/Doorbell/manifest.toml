@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/Doorbell.git"
+commit = "17faff690e4e7ad45deb8a9f3225f3c0e54edebd"
+owners = [
+    "dradalrplwmif",
+    "SoyaX"
+]
