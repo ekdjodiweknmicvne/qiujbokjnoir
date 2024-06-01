@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/gentletouch.git"
+commit = "7d6c2a9a0e3477c00dd8f11d4d23d2c68e9e1e2b"
+owners = ["dradalrplwmif", "fitzchivalrik"]
+project_path = "GentleTouch"
