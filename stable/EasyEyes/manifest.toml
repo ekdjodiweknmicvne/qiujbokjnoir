@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/EasyEyes.git"
+commit = "bf9872b586e238d9052564a10ad0da0c54264c5c"
+owners = [
+    "dradalrplwmif",
+    "0ceal0t",
+]
+project_path = "EasyEyes"
