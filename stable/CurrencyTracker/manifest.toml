@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/CurrencyTracker.git"
+commit = "4bcbc712bb96d76b572300e4874d18b2bd22b490"
+owners = ["dradalrplwmif", "AtmoOmen"]
+project_path = "CurrencyTracker"
+changelog = """
+- Fixed the null reference exception issue when hovering the currency addon.
+- Optimized the logic for MobDrops module.
+- Fixed the issue that Server Bar entry would disappear when relogin to another character.
+"""
