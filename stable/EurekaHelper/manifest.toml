@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/EurekaHelper.git"
+commit = "d7c20965fd861ecc4f1176b7d018d801f0180403"
+owners = ["dradalrplwmif", "snorux"]
+project_path = "EurekaHelper"
+changelog = """
+Elemental Manager
+- Added crowdsourced positions
+
+Misc
+- Updated to API 9
+"""
