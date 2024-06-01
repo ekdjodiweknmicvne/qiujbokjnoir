@@ -1,0 +1,11 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/GearsetHelperPlugin.git"
+commit = "ca44f2d1e6e76feaa7dd7ad6477b95c4726ed061"
+owners = [ 
+  "dradalrplwmif",
+	"KhloeLeclair"
+]
+project_path = "GearsetHelperPlugin"
+changelog = """
+- Fixed stats for relic weapons not being handled correctly.
+"""
