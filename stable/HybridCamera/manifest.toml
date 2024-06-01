@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/HybridCamera.git"
+commit = "3713f34af52fff9fb06c7507b0a7886c9165c4b4"
+owners = ["dradalrplwmif", "Drahsid"]
+project_path = "HybridCamera"
+changelog = """
+- Updated for 6.5
+- Updated for API9
+- Code Cleanup
+"""
