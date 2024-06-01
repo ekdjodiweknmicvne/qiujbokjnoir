@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/Housemate.git"
+commit = "90383d2408606078ee9cccab6b9f95cda3e9fe24"
+owners = [
+    "dradalrplwmif",
+    "lmcintyre",
+]
+project_path = "Housemate"
