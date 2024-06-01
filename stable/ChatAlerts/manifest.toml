@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/woimqimodkbrne/ChatAlerts.git"
+commit = "c09842adb21cce2f6f4bd80e15ba7585d8a15054"
+owners = [
+    "dradalrplwmif",
+    "Ottermandias",
+]
+project_path = "ChatAlerts"
