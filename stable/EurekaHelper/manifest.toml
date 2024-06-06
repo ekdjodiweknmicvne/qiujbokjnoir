@@ -1,12 +1,8 @@
 [plugin]
 repository = "https://github.com/woimqimodkbrne/EurekaHelper.git"
-commit = "2c90a1e74b46c8e4ad6ad4533994ba0363a6a3a9"
+commit = "5fecef363a1d818dc40245abb54124ecdcd80350"
 owners = ["dradalrplwmif", "snorux"]
 project_path = "EurekaHelper"
 changelog = """
-Elemental Manager
-- Added crowdsourced positions
-
-Misc
-- Updated to API 9
+- 일부 한글화
 """
